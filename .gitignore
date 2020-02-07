@@ -1,0 +1,11 @@
+# Vedio to Frame
+.idea
+.DS_Store
+pyvenv.cfg
+
+dataset
+Include
+frame
+Lib
+Scripts
+video
